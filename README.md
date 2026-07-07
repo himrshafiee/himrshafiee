@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Amin!
 
 From Tehran to Rotterdam, every pixel tells a story.
+
 For me, development is a continuous journey of learning, adapting, and creating.
+
 
 ### 🛠️ Tech Stack & Trendy Tools
 
