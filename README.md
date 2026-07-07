@@ -16,9 +16,9 @@ For me, development is a continuous journey of learning, adapting, and creating.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fateme-mokhtari/Fateme-mokhtari/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fateme-mokhtari/Fateme-mokhtari/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Fateme-mokhtari/Fateme-mokhtari/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himrshafiee/himrshafiee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himrshafiee/himrshafiee/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/himrshafiee/himrshafiee/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
